@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url('./assets/about.jpeg'); /* Replace 'background.jpg' with the path to your background image */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(240, 238, 238);
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.ab {
+    background-color:rgb(0, 0, 0, 0.5);
+}
+
+.hi {
+    background-color: rgb(0, 0, 0, 0.5);
+}
+
+h1 {
+    font-size: xx-large;
+}
